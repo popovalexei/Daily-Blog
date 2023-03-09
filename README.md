@@ -1,6 +1,8 @@
 # Daily-Blog
 Daily Blog - is a web application that allows users to create and publish their own blog posts. The project is built using JavaScript, Node.js, Express.js, EJS, HTML, CSS, Bootstrap, Body-Parser, and Lodash.
 
+
+
 Installation:
 
 To use the Daily Blog project, follow these steps:
@@ -22,6 +24,8 @@ To use the Daily Blog project, follow these steps:
   5. The server will start running on localhost:3000. 
      Open your web browser and go to http://localhost:3000 to see the Daily Blog project.
      
+     
+     
 Usage:
 
 The Daily Blog project is designed to make it easy for users to create and publish their own blog posts. Here are some of the main features of the project:
@@ -33,6 +37,8 @@ The Daily Blog project is designed to make it easy for users to create and publi
   • About Us: The About Us page provides information about the Daily Blog project and the team behind it.
   
   • Contact Us: The Contact Us page allows users to send messages to the Daily Blog team.
+  
+  
   
 All the pages in the Daily Blog project are designed using EJS templates and have a consistent design using Bootstrap, which makes the website look professional and cohesive.
 
