@@ -1,0 +1,19 @@
+<%- include("partials/header") -%>
+
+<h1>Compose</h1>
+<!-- action is the route where we will POST the info -->
+<form action="/compose" method="post">
+    <div class="form-group">
+        <label>Title</label>
+        <input type="text" name="postTitle" class="form-control">
+        
+        <label>Post</label>
+        <textarea name="postBody" class="form-control" cols="40" rows="5"></textarea>
+      </div>
+    <button class="btn btn-secondary" type="submit">Publish</button>
+</form>
+
+
+
+
+<%- include("partials/footer") -%>
